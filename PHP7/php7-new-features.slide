@@ -1,7 +1,7 @@
 #+theme=briebug
 #+hideLastSlide=true
 
-News features in PHP 7
+New features in PHP 7
 24 Nov 2016
 Tags: PHP7
 
@@ -43,16 +43,16 @@ jarick@cnyes.com
 * PHP 7 - Return Type Declarations
 
 - PHP 7 supports Return Type Declarations which support all the same types as arguments.
-  - Non-strict int
-  - strict int
+  - Non-strict 
+  - strict 
 
-* Non-strict int
+* Non-strict
 - Everything will work the same as it did without a return type.
 - The only difference is that it will *force* the return to be an *int*.
 
 .code sampleCode/php7-non-strict-return-declaration.php
 
-* Strict int
+* Strict
 .code sampleCode/php7-strict-return-declaration.php
 
 * Say hi to new throwable interface
