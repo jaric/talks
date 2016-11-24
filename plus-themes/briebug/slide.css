@@ -14,7 +14,6 @@ section {
 }
 article::after {
     content: "";
-    background: url(briebug-logo1.png);
     background-size: auto 60px;
     background-repeat: no-repeat;
     background-position: bottom right;
@@ -64,7 +63,6 @@ article.first-slide {
 }
 article.first-slide::after {
     content: "";
-    background: url(briebug-logo2.png);
     background-size: auto 110px;
     background-repeat: no-repeat;
     background-position: bottom right;

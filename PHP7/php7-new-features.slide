@@ -7,13 +7,14 @@ Tags: PHP7
 
 Jaric Kuo
 Debug Guy
-jarick@gmail.com
+jarick@cnyes.com
 @jaric
 
 * Speed
 
 - Bench marks for PHP 7 consistently show speeds twice as fast as PHP 5.6.
 .image images/benchmark-853x480.png
+
 
 
 * PHP 5 - Declarations
@@ -115,4 +116,4 @@ jarick@gmail.com
 - [[http://stackoverflow.com/questions/6384431/creating-anonymous-objects-in-php?rq=1][Creating anonymous objects in php]]
 - [[http://blog.teamtreehouse.com/5-new-features-php-7][5 New Features in PHP 7]]
 - [[https://www.phpclasses.org/blog/post/318-PHP-7-Anonymous-Classes-Tutorial.html][PHP 7 Anonymous Classes Tutorial]]
-
+.image images/dragon.png
