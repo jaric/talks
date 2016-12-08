@@ -1,0 +1,64 @@
+#+theme=briebug
+#+hideLastSlide=true
+
+今天要說一個故事
+
+08 Dec 2016
+Tags: Utils 
+
+Jaric Kuo
+Good- 阿-mo
+jarick@cnyes.com
+@jaric
+
+* 什麼故事？
+
+- 教你如何在 5  分鐘之內產生 98 張表的Migration 檔案?
+  - (計時開始)
+
+* 什麼是Migratons
+
+- Version control for our database.
+- [[https://laravel.com/docs/5.1/migrations][Introduction]] 
+
+
+* 可以用來做什麼? 
+
+- [[https://laravel.com/docs/5.1/migrations#generating-migrations][Generating Migrations]]
+- [[https://laravel.com/docs/5.1/migrations#migration-structure][Migration-Structure]]
+- [[https://laravel.com/docs/5.1/migrations#running-migrations][Running Migrations]]
+- [[https://laravel.com/docs/5.1/migrations#writing-migrations][Writing Migrations]]
+
+
+* Available Column Types 
+
+.image images/5.png
+
+* 你銀杏系膩？ 
+
+  - 現場背完有獎品。 
+
+* MySQL Workbench Export Laravel 5 Migrations Plugin 
+  
+- [[https://github.com/beckenrode/mysql-workbench-export-laravel-5-migrations][身為工具人當然要用工具]]
+
+  - Installation
+  - MySQL Workbench > Scripting > Install Plugin/Module
+  - Select the plugin file
+  - Click Open
+
+* 好多好多表
+
+.image images/6.png
+
+* 5 秒搞定
+
+  - Open a model in MySQL Workbench
+  - Tools > Catalog > Export Laravel 5 Migration
+
+.image images/7.png
+
+* 5分鐘還沒用完？
+
+- ㄏㄏ 
+
